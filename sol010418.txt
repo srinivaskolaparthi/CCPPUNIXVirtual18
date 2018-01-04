@@ -1,0 +1,5 @@
+c program to print fibonoci series?
+sol)
+main()
+{
+}
