@@ -1,0 +1,30 @@
+Write five statements to print the asterisk pattern:
+*****
+*****
+*****
+
+Write C code that will display the calculator menu.
+The program will prompt the user to choose the operation choice (from 1 to 5). Then it asks the user to input two integer vales for the calculation. See the sample below. 
+  MENU 
+          1. Add 
+          2. Subtract 
+          3. Multiply 
+          4. Divide 
+          5. Modulus 
+Enter your choice: 1 
+Enter your two numbers: 12 15 
+Result: 27 
+  
+Continue? y 
+  
+The program also asks the user to decide whether he/she wants to continue the operation. If he/she input ‘y’, the program will prompt the user to choose the operation gain. Instead, the program will terminate. 
+
+3)Write a program that will ask the user to input three integer values from the keyboard. Then it will print the smallest and largest of those numbers.
+
+4)Write a C program to check whether year is leap year or not using conditional operator.
+
+5)Write a C program to print all Armstrong numbers between 1 to n.
+
+6)Write a C program to print all ASCII character with their values.
+
+7)C program for ternary operator?
