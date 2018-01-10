@@ -1,0 +1,18 @@
+1)#include <iostream>
+using namespace std;
+class A
+{
+    public:
+  char ="007";
+  float b=90.99;
+};
+
+int main() {
+A obj1;
+A obj2;
+cout<<obj1.a<<endl;
+cout<<obj2.b; 
+}
+Pointout the error from the code and fix the issue.(O/p shld be 007 90.99).
+
+2)
