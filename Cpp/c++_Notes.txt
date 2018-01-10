@@ -1,0 +1,142 @@
+c++
+--------
+
+C is structured
+c++ is object based programming language which also folows procedure oriented.
+
+when we can called a pl as object oriented?
+
+object
+class
+polymorphism:one thing multiple forms.
+--overloading
+   one function multiple forms
+   one constructor multiple forms
+--overriding
+inheritance
+message passing
+abstraction
+encapsulation
+
+
+functions,pointers,files are same in c++.
+
+
+object:identity,switchon(),switchoff(),on/off
+
+every object will have SBI(state,behaviour,identity).
+were ever u r having object,fr sure u will have class.
+class---object
+
+1)if class exists means no rule that object shld exist.
+2)if object is there means fr sure class shld exist.
+3)class without memory is useless.
+4)memory for class is allocated after creating an object.
+syntax for creating object:
+5)cout is similar to printf in C
+6)cin is similar to scanf in c.
+cout==OUT Mode
+CIn==IN mode
+error=ERROR Mode
+
+cin/cout comes under io pack.
+
+classnmae objectname;
+
+::
+
+if u want to represent using C++,then it is as follows.
+
+
+global,locl variables.
+
+access specifiers:public,private,protected,default.
+
+
+   abcd()
+{
+}
+
+a function with body is called as concrete method.can we create obj?
+without body is called as abstract.
+
+if u want to wrk on abstract classes,u need to know virtual functions.
+
+int abcd;
+abcd();
+
+----------------------------------------
+
+a abstrct class can have mix(con,abs)
+concrete only concrete mth.
+abstrct shld be atleast one virtual function.
+
+virtual returntype functionmae()=0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+constructor:a constructor is a member function whose name is same as class name
+but with no return type.
+
+
+int abcd(int a,char b){}
+void abcd(char a,char b){}
+function overloading
+
+overloading can be done for functions and constructors.
+1)if u want to overload any thing,atleast return type shld change or no of parameters shld be diff,or datatype for parameters shld be differ.
+
+
+
+class A
+{
+A(int a)
+{
+}
+A(float b)
+{
+}
+void ff()
+{
+}
+};
+
+ A obj(2),obj1(7.8);
+obj.ff();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
