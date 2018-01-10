@@ -15,4 +15,18 @@ cout<<obj2.b;
 }
 Pointout the error from the code and fix the issue.(O/p shld be 007 90.99).
 
-2)
+2)#include <iostream>
+using namespace std;
+
+int main() {
+   int i, j;
+   
+   j = 10;
+   i = (j++, j+100, 999+j);
+
+   cout << i;
+   
+   return 0;
+}
+
+output?
