@@ -1,8 +1,5 @@
- Pointer is a variable that stores memory addresses. Unlike normal variables it does not store user given or processed value, instead it stores valid computer memory address.
-
-
+Pointer is a variable that stores memory addresses. Unlike normal variables it does not store user given or processed value, instead it stores valid computer memory address.
 Pointer allows various magical things to be performed in C.
-
 Pointers are more efficient in handling arrays and structures.
 Pointers are used to return multiple values from a function.
 Pointer allows dynamic memory allocation and deallocation (creation and deletion of variables at runtime) in C. Which undoubtedly is the biggest advantage of pointers.
