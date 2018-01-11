@@ -212,7 +212,6 @@ Rules
 3)Child inherits properties from Base class.
 4)Base class will never inherit properties from child class.
 
-
 Base class/Parent class
 Child class
 to perform inheritance we are going to use':' operator.
@@ -220,6 +219,9 @@ to perform inheritance we are going to use':' operator.
 A(add(),sub())
 B(operate())
 if B extends A,then hw many function will be inherited?
+Ans) 2
+
+Inheritance are classified into below types:single,multiple,multilevel,hybrid,hiearchial inheritance.
 
 
 
