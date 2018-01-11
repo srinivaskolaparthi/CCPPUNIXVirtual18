@@ -223,6 +223,8 @@ Ans) 2
 
 Inheritance are classified into below types:single,multiple,multilevel,hybrid,hiearchial inheritance.
 
+Explain Diamond problem in inheritance?
+
 
 
 
