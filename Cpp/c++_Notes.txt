@@ -144,6 +144,28 @@ void ff()
  A obj(2),obj1(7.8);
 obj.ff();
 
+------------------------------------------------
+Exception Handling:
+
+What will hapen if i get an error?
+  
+It will simply stop executionof ur program.then we need to handle the exception.
+
+try
+{
+int a;
+}
+catch(exceptionsss e)
+{
+cout<<e;
+}
+when ever we are having sensitive code,which can provne to errors,then surrunder ur code with try block.and handle the suitation using
+catch blok.
+
+1 try=u can have multiple catches
+Nested try are also possible.
+if exception araises in try block,then control moves to catch otherwise control never moves to catch.
+
 
 
 
