@@ -21,7 +21,6 @@ encapsulation
 
 functions,pointers,files are same in c++.
 
-
 object:identity,switchon(),switchoff(),on/off
 
 every object will have SBI(state,behaviour,identity).
@@ -43,7 +42,7 @@ cin/cout comes under io pack.
 
 classnmae objectname;
 
-::
+:: to access global varaiables in C++.
 
 if u want to represent using C++,then it is as follows.
 
@@ -51,7 +50,6 @@ if u want to represent using C++,then it is as follows.
 global,locl variables.
 
 access specifiers:public,private,protected,default.
-
 
    abcd()
 {
@@ -72,6 +70,25 @@ abstrct shld be atleast one virtual function.
 
 Syntax:
 virtual returntype functionmae()=0;
+
+-------------------------------------------
+Templates:
+
+In java same templates are called as Generics.
+
+if you are not aware of the type of data which u r receiving from source(scanf,file).
+T a;
+a=90;
+a='p';
+
+Disadvantage:No control on the code.
+Syntax of Function template:
+
+template <class type>
+ret-type func-name(parameter list) {
+   // body of function
+} 
+
 
 
 
