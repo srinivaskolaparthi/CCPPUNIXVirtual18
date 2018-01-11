@@ -1,3 +1,58 @@
+C 
+-----------------
+
+  Software:set of programs.
+  Program:set of instructions/commands
+  Hardware:set of components
+  Programming language:c,c++,java.....
+  Softwares are classified into 2 types(system,application software)
+  System:o/s
+  app s/w:notepad,msword,calc.....
+  Embeded Systems:combination of s/w and hardware.
+
+  c and c++ are the best llang in the world which can interact with hardware effeciently.
+
+
+  Advantage:beter interaction with hardware,i can design system or app softwares,i can design code fr device drivers,even u can design a virus program,graphic designing,protocol developement,.....etc.
+
+
+Disadvantages:it is not platform independent,not secure,not language independent,poor error handling...etc.
+
+Editors fr C/C++:eclipse,turbo/borland c,turbo c++,gc,gc++,visual c/C++....etc
+----------------------------------------
+
+Data:0,1,alphabets,audio,video...which is not organized
+information:organized
+
+
+ compiler:software program.
+ Loader:software program whose responsibility is to place ur code for execution.
+ Binary language:0/1
+ Syntax:rules which u need to follow.
+ 
+
+datatype:23,'p',9.00
+
+container:to store
+  
+ variables to store data.
+  
+=,+,-,*===>arthimetic
+  
+ >,<,>=,<=used fr conditional testing
+  
+
+  a=9;===>assign value to variable
+ 
+  == is used fr comparision.
+
+  in mode===>scanf function
+  out mode==>printf
+  error 
+
+ main()==>main() is userdefined.
+
+ write a program to swap two numbers without using third variable and within one expression.
 c++
 --------
 
@@ -89,33 +144,7 @@ ret-type func-name(parameter list) {
    // body of function
 } 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-constructor:a constructor is a member function whose name is same as class name
+Constructor:a constructor is a member function whose name is same as class name
 but with no return type.
 
 
