@@ -195,13 +195,31 @@ catch blok.
 Nested try are also possible.
 if exception araises in try block,then control moves to catch otherwise control never moves to catch.
 
+Command Line arguments:
+----------------------
+if u want to pass any arguments to main methods,u can do it thru cmd line arguments.
+
+argc==argument count
+argv==variable arguments.
+
+Inheritance:
+-------------
+
+Rules
+----
+1)atleast 2 classes shld be there to perform inheritance.
+2)Private methods cannot be inherited.
+3)Child inherits properties from Base class.
+4)Base class will never inherit properties from child class.
 
 
+Base class/Parent class
+Child class
+to perform inheritance we are going to use':' operator.
 
-
-
-
-
+A(add(),sub())
+B(operate())
+if B extends A,then hw many function will be inherited?
 
 
 
