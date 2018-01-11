@@ -66,12 +66,14 @@ int abcd;
 abcd();
 
 ----------------------------------------
-
-a abstrct class can have mix(con,abs)
+A abstrct class can have mix(con,abs)
 concrete only concrete mth.
 abstrct shld be atleast one virtual function.
 
+Syntax:
 virtual returntype functionmae()=0;
+
+
 
 
 
