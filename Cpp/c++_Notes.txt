@@ -242,6 +242,8 @@ Rules for USerdefined Exceptions:
 Obverloading:overloading methods,constructors.But in C++,we can also overloading for operators.(+,-,*)
 
 exa:*,+
+::	.*	.	?: cannot be overloaded
+
 
 
 
