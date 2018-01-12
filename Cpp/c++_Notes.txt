@@ -239,6 +239,10 @@ Rules for USerdefined Exceptions:
 3)Catch shld have exception ref as a parameter.
 4)You can use either base class or userdefined exception in catch block while handling exceptions.
 
+Obverloading:overloading methods,constructors.But in C++,we can also overloading for operators.(+,-,*)
+
+exa:*,+
+
 
 
 
