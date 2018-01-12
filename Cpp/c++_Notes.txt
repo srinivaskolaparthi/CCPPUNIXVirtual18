@@ -225,9 +225,19 @@ Inheritance are classified into below types:single,multiple,multilevel,hybrid,hi
 
 Explain Diamond problem in inheritance?
 
+--------------------------------------------------------
+Creating USer Defined Exceptions:
 
+Divideby Error
 
+SriniException
 
+Rules for USerdefined Exceptions:
+---------------------------------
+1)Every userdefined exception shld extends baseclass exception class named as "exception".
+2)Every userdefined function the class shld throw the exception manually.
+3)Catch shld have exception ref as a parameter.
+4)You can use either base class or userdefined exception in catch block while handling exceptions.
 
 
 
