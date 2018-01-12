@@ -6,9 +6,14 @@ class B;
 class A {
     private:
       int numA;
+      void display()
+      {
+          cout<<"A friend";
+      }
+      
     public:
       A(): numA(12) { }
-      // friend function declaration
+      
       friend int add(A, B);
 };
 
@@ -17,14 +22,12 @@ class B {
        int numB;
     public:
        B(): numB(1) { }
-       // friend function declaration
        friend int add(A , B);
 };
 
-// Function add() is the friend function of classes A and B
-// that accesses the member variables numA and numB
 int add(A objectA, B objectB)
 {
+   objectA.display();
    return (objectA.numA + objectB.numB);
 }
 
